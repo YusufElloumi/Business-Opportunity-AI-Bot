@@ -1,2 +1,4 @@
-# Business-Opportunity-AI-Bot
+# Business Opportunity AI Bot
 This n8n bot scrapes data from Reddit and similar social media sites to identify potential business opportunities, organizes the findings into a Google Sheet and automates emails with daily insights.
+
+This n8n bot is designed to monitor online communities such as Reddit and other social media platforms for emerging business opportunities. It scrapes relevant posts, comments, and discussions using customizable filters and keywords to capture trends, market demands, and innovative ideas. Once the data is collected, the bot processes and extracts key insights before automatically compiling them into a Google Sheet. In addition, it automates daily email reports to users, delivering curated business insights directly to their inboxes. This structured presentation and proactive communication enable entrepreneurs and businesses to quickly analyze and act on new market opportunities, streamlining strategic decision-making and fostering innovation.
