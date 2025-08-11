@@ -80,7 +80,7 @@
       "typeVersion": 1.2,
       "credentials": {
         "openAiApi": {
-          "id": "Jy52eQ0F0UqxBjU3",
+          "id": "OPENAI_API_KEY",
           "name": "OpenAi account"
         }
       }
@@ -140,7 +140,7 @@
       "typeVersion": 2.1,
       "credentials": {
         "gmailOAuth2": {
-          "id": "YAJiOFojH63NOdNg",
+          "id": "GMAIL_CREDENTIAL_ID",
           "name": "Gmail account"
         }
       }
@@ -163,7 +163,7 @@
       "typeVersion": 2.1,
       "credentials": {
         "gmailOAuth2": {
-          "id": "YAJiOFojH63NOdNg",
+          "id": "GMAIL_CREDENTIAL_ID",
           "name": "Gmail account"
         }
       }
@@ -195,7 +195,7 @@
       "typeVersion": 1.8,
       "credentials": {
         "openAiApi": {
-          "id": "Jy52eQ0F0UqxBjU3",
+          "id": "OPENAI_API_KEY",
           "name": "OpenAi account"
         }
       }
@@ -580,7 +580,7 @@
       "name": "Append Data to Sheet",
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "QSJt2iM1fDnftx3X",
+          "id": "SHEETS_API_KEY",
           "name": "Google Sheets account"
         }
       }
